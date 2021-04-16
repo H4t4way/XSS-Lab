@@ -12,7 +12,7 @@
 ## deploy
 - Download repository  
 ```git clone https://github.com/H4t4way/XSS-Lab.git```
-- Copiare il contenuto del repository in /var/www/html
+- Copiare il contenuto del repository in /var/www/html  
 ```sudo cp * /var/www/html/```
 - Riavviare Apache
 ```systemctl restart apache2.service```  
