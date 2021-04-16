@@ -1,6 +1,6 @@
 # XSS-Lab
 
-## Deploy su Debian Based (Kali, Ubuntu, etc..)
+## Deploy Debian Based (Kali, Ubuntu, etc..) su Virtual Private Server(VPS)
 
 ### requisiti
 
@@ -11,4 +11,11 @@
 
 ## deploy
 - Download repository  
-https://github.com/H4t4way/XSS-Lab.git
+```git clone https://github.com/H4t4way/XSS-Lab.git```
+- Copiare il contenuto del repository in /var/www/html
+```sudo cp * /var/www/html/```
+- Riavviare Apache
+```systemctl restart apache2.service```  
+or
+```systemctl stop apache2.service```  
+```systemctl start apache2.service``
