@@ -9,7 +9,7 @@
 - Installazione PHP con Apache Web Server  
 ```sudo apt install php libapache2-mod-php```
 
-## deploy
+### deploy
 - Download repository  
 ```git clone https://github.com/H4t4way/XSS-Lab.git```
 - Copiare il contenuto del repository in /var/www/html  
