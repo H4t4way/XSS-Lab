@@ -6,3 +6,5 @@
 
 - Aggiornare pacchetti  
 ```sudo apt update```
+- Installazione PHP con Apache Web Server  
+```sudo apt install php libapache2-mod-php```
