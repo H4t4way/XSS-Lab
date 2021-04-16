@@ -4,5 +4,5 @@
 
 ### requisiti
 
-- Aggiornare pacchetti
+- Aggiornare pacchetti  
 ```sudo apt update```
