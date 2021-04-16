@@ -18,4 +18,6 @@
 ```systemctl restart apache2.service```  
 oppure  
 ```systemctl stop apache2.service```    
-```systemctl start apache2.service```   
+```systemctl start apache2.service```  
+- Ora il laboratorio è completamente configurato sull'indirizzo IP del VPS  
+```hostname -I```  
