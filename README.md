@@ -1,7 +1,5 @@
 # XSS-Lab
 
-## Pre-Requisiti
+## Deploy su distro Linux
 
-- 1
-- 1
-- 1
+### requisiti
